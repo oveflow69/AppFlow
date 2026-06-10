@@ -42,6 +42,7 @@ ro.product.odm.manufacturer=samsung
 ro.product.system_ext.manufacturer=samsung
 ro.boot.verifiedbootstate=green
 ro.boot.veritymode=enforcing
+ro.crypto.state=encrypted
 ro.build.type=user
 ro.build.user=dpi
 ro.build.host=VPHORC730
